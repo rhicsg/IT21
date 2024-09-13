@@ -15,5 +15,5 @@ displaystudentDisplay() {;
 }
 
 //Display student details
-const student = new Student('Rans', 'BSIT', 'Northern Bukidnon State College');
-student.displayStudentDisplay();
+const student = new Student('Rans', 'Bachelor of Science in Information Technology', 'Northern Bukidnon State College');
+student.displaystudentDisplay();
