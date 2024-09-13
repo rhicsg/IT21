@@ -8,9 +8,9 @@ class Student{
 
 //Method to display 
 displaystudentDisplay() {;
-    console.log('Name: ${this.name}');
-    console.log('Course: ${this.course}');
-    console.log('School: ${this.school}');
+    console.log(`Name: ${this.name}`);
+    console.log(`Course: ${this.course}`);
+    console.log(`School: ${this.school}`);
     }
 }
 
